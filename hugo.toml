@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'ssssss'
+hasCJKLanguage = true
+summaryLength = 100
+theme = 'ananke'
+publishDir = "docs"
+
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

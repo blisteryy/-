@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://blisteryy.github.io/-/posts/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1.article/</loc>
+    <loc>https://blisteryy.github.io/-/posts/1.article/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/article4/</loc>
+    <loc>https://blisteryy.github.io/-/posts/article4/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://blisteryy.github.io/-/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/1-article2/</loc>
+    <loc>https://blisteryy.github.io/-/posts/1-article2/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/article3/</loc>
+    <loc>https://blisteryy.github.io/-/posts/article3/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://blisteryy.github.io/-/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://blisteryy.github.io/-/tags/</loc>
   </url>
 </urlset>

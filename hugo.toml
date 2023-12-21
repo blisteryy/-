@@ -1,10 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blisteryy.github.io/-/'
 languageCode = 'en-us'
 title = 'ssssss'
 hasCJKLanguage = true
 summaryLength = 100
 theme = 'ananke'
 publishDir = "docs"
+canonifyurls = true
+
 
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
